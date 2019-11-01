@@ -1,0 +1,11 @@
+C:\Users\Пекарня\source\repos\TestEx\TestEx\bin\Debug\netcoreapp3.0\TestEx.exe
+C:\Users\Пекарня\source\repos\TestEx\TestEx\bin\Debug\netcoreapp3.0\TestEx.deps.json
+C:\Users\Пекарня\source\repos\TestEx\TestEx\bin\Debug\netcoreapp3.0\TestEx.runtimeconfig.json
+C:\Users\Пекарня\source\repos\TestEx\TestEx\bin\Debug\netcoreapp3.0\TestEx.runtimeconfig.dev.json
+C:\Users\Пекарня\source\repos\TestEx\TestEx\bin\Debug\netcoreapp3.0\TestEx.dll
+C:\Users\Пекарня\source\repos\TestEx\TestEx\bin\Debug\netcoreapp3.0\TestEx.pdb
+C:\Users\Пекарня\source\repos\TestEx\TestEx\obj\Debug\netcoreapp3.0\TestEx.csprojAssemblyReference.cache
+C:\Users\Пекарня\source\repos\TestEx\TestEx\obj\Debug\netcoreapp3.0\TestEx.AssemblyInfoInputs.cache
+C:\Users\Пекарня\source\repos\TestEx\TestEx\obj\Debug\netcoreapp3.0\TestEx.AssemblyInfo.cs
+C:\Users\Пекарня\source\repos\TestEx\TestEx\obj\Debug\netcoreapp3.0\TestEx.dll
+C:\Users\Пекарня\source\repos\TestEx\TestEx\obj\Debug\netcoreapp3.0\TestEx.pdb
